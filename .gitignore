@@ -1,0 +1,24 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm and VS Code settings
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
