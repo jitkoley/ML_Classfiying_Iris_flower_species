@@ -1,0 +1,12 @@
+scikit-learn
+onnx
+skl2onnx
+joblib
+onnxruntime
+tf2onnx
+streamlit
+pandas
+Pillow
+matplotlib 
+seaborn 
+numpy 
